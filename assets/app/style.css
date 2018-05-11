@@ -1,0 +1,8 @@
+.flexigrid div.sDiv2 input, .flexigrid div.sDiv2 select {
+    vertical-align: middle;
+    margin: 0 10px;
+}
+
+#icon_input_box{
+    width: 250px;
+}
